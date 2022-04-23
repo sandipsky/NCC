@@ -12,5 +12,4 @@ basic git commands
 (--global is optional and it uses that name for all repo)
 
 2.git config --global user.email <email> : Set email of the user
-
 3. git config --global user.name : Get the name of the user
