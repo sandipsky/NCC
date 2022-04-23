@@ -1,0 +1,16 @@
+git commands 
+basic git commands
+1.git init : initialize git repository
+2. git status : show the status of the current repository
+3. git add <filename>|<.> : add a file to the staging area
+4. git commit -m "<message>" : commit the changes in the staging area with message
+5. git log : show the history of the current repository
+
+
+## Git configuration
+1. git config --global user.name <name> : Set the name of the user
+(--global is optional and it uses that name for all repo)
+
+2.git config --global user.email <email> : Set email of the user
+
+3. git config --global user.name : Get the name of the user
