@@ -5,11 +5,17 @@ basic git commands
 3. git add <filename>|<.> : add a file to the staging area
 4. git commit -m "<message>" : commit the changes in the staging area with message
 5. git log : show the history of the current repository
-
+6. git checkout (branchname) | commit-id : checkout a branch | commit id
+7. git diff {commit1} {commit2} : show the difference between two commits (newone second)
+8. git revert {commit-id} : revert the changes in stagin area
 
 ## Git configuration
-1. git config --global user.name <name> : Set the name of the user
+1. git config --global user.name <namve> : Set the name of the user
 (--global is optional and it uses that name for all repo)
 
 2.git config --global user.email <email> : Set email of the user
 3. git config --global user.name : Get the name of the user
+
+
+to change from master branch to main 
+git branch -m master main
