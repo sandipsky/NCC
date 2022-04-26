@@ -10,7 +10,7 @@ basic git commands
 8. git revert {commit-id} : revert the changes in stagin area
 
 ## Git configuration
-1. git config --global user.name <namve> : Set the name of the user
+1. git config --global user.name <name> : Set the name of the user
 (--global is optional and it uses that name for all repo)
 
 2.git config --global user.email <email> : Set email of the user

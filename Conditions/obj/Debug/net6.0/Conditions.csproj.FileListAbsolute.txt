@@ -1,0 +1,15 @@
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\Conditions.csproj.AssemblyReference.cache
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\Conditions.AssemblyInfoInputs.cache
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\Conditions.AssemblyInfo.cs
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Sandip Shakya\Desktop\Conditions\bin\Debug\net6.0\Conditions.exe
+C:\Users\Sandip Shakya\Desktop\Conditions\bin\Debug\net6.0\Conditions.deps.json
+C:\Users\Sandip Shakya\Desktop\Conditions\bin\Debug\net6.0\Conditions.runtimeconfig.json
+C:\Users\Sandip Shakya\Desktop\Conditions\bin\Debug\net6.0\Conditions.dll
+C:\Users\Sandip Shakya\Desktop\Conditions\bin\Debug\net6.0\Conditions.pdb
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\Conditions.dll
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\refint\Conditions.dll
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\Conditions.pdb
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\Conditions.genruntimeconfig.cache
+C:\Users\Sandip Shakya\Desktop\Conditions\obj\Debug\net6.0\ref\Conditions.dll

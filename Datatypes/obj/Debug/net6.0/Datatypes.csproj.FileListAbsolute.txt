@@ -1,0 +1,15 @@
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\Datatypes.csproj.AssemblyReference.cache
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\Datatypes.AssemblyInfoInputs.cache
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\Datatypes.AssemblyInfo.cs
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Sandip Shakya\Desktop\Datatypes\bin\Debug\net6.0\Datatypes.exe
+C:\Users\Sandip Shakya\Desktop\Datatypes\bin\Debug\net6.0\Datatypes.deps.json
+C:\Users\Sandip Shakya\Desktop\Datatypes\bin\Debug\net6.0\Datatypes.runtimeconfig.json
+C:\Users\Sandip Shakya\Desktop\Datatypes\bin\Debug\net6.0\Datatypes.dll
+C:\Users\Sandip Shakya\Desktop\Datatypes\bin\Debug\net6.0\Datatypes.pdb
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\Datatypes.dll
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\refint\Datatypes.dll
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\Datatypes.pdb
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\Datatypes.genruntimeconfig.cache
+C:\Users\Sandip Shakya\Desktop\Datatypes\obj\Debug\net6.0\ref\Datatypes.dll
