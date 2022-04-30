@@ -1,0 +1,15 @@
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\bin\Debug\net6.0\Classandobjects.exe
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\bin\Debug\net6.0\Classandobjects.deps.json
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\bin\Debug\net6.0\Classandobjects.runtimeconfig.json
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\bin\Debug\net6.0\Classandobjects.dll
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\bin\Debug\net6.0\Classandobjects.pdb
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\Classandobjects.csproj.AssemblyReference.cache
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\Classandobjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\Classandobjects.AssemblyInfoInputs.cache
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\Classandobjects.AssemblyInfo.cs
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\Classandobjects.csproj.CoreCompileInputs.cache
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\Classandobjects.dll
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\refint\Classandobjects.dll
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\Classandobjects.pdb
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\Classandobjects.genruntimeconfig.cache
+D:\Documents\6th Semester\zLAB\NCC\Classandobjects\obj\Debug\net6.0\ref\Classandobjects.dll
