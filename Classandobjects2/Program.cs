@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+public class oop
+{
+    public static void Main()
+    {
+        MarksInfo mi = new MarksInfo();
+        mi.MathMarks = 200;
+        mi.ScienceMarks = -200;
+        System.Console.WriteLine(mi.Total);
+    }
+}

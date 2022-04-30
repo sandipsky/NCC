@@ -40,4 +40,12 @@ public class MarksInfo
     
 
     public double Total => ScienceMarks + MathMarks;
+
+    public double Percentage
+    {
+        get 
+        {
+            return (Total/2 * _fullMarks)
+        }
+    }
 }
