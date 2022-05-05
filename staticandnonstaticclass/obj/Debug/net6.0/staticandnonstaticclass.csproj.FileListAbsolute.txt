@@ -1,0 +1,15 @@
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\bin\Debug\net6.0\staticandnonstaticclass.exe
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\bin\Debug\net6.0\staticandnonstaticclass.deps.json
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\bin\Debug\net6.0\staticandnonstaticclass.runtimeconfig.json
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\bin\Debug\net6.0\staticandnonstaticclass.dll
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\bin\Debug\net6.0\staticandnonstaticclass.pdb
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\staticandnonstaticclass.csproj.AssemblyReference.cache
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\staticandnonstaticclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\staticandnonstaticclass.AssemblyInfoInputs.cache
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\staticandnonstaticclass.AssemblyInfo.cs
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\staticandnonstaticclass.csproj.CoreCompileInputs.cache
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\staticandnonstaticclass.dll
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\refint\staticandnonstaticclass.dll
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\staticandnonstaticclass.pdb
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\staticandnonstaticclass.genruntimeconfig.cache
+D:\Documents\6th Semester\zLAB\NCC\staticandnonstaticclass\obj\Debug\net6.0\ref\staticandnonstaticclass.dll

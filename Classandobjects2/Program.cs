@@ -8,5 +8,6 @@ public class oop
         mi.MathMarks = 200;
         mi.ScienceMarks = -200;
         System.Console.WriteLine(mi.Total);
+        System.Console.WriteLine(mi.Percentage);
     }
 }

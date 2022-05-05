@@ -45,7 +45,16 @@ public class MarksInfo
     {
         get 
         {
-            return (Total/2 * _fullMarks)
+            return (Total/(2 * _fullMarks)) * 100;
+        }
+    }
+    public string Division
+    {
+        get 
+        {
+            if (Percentage >= 80) return "Distinction";
+            else if (Percentage >= 60) return "First Division";
+            else if (Percentage >= 40) return "Second Division";
         }
     }
 }
