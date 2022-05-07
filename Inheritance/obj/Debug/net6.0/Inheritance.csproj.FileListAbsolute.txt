@@ -1,0 +1,15 @@
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/bin/Debug/net6.0/Inheritance
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/refint/Inheritance.dll
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
+/mnt/01D849C93DF54D10/Documents/6th Semester/zLAB/NCC/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll
