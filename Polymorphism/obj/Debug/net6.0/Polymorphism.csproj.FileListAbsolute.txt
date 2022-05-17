@@ -1,0 +1,15 @@
+C:\Users\Sandip Shakya\Desktop\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+C:\Users\Sandip Shakya\Desktop\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+C:\Users\Sandip Shakya\Desktop\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+C:\Users\Sandip Shakya\Desktop\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+C:\Users\Sandip Shakya\Desktop\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+C:\Users\Sandip Shakya\Desktop\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll
