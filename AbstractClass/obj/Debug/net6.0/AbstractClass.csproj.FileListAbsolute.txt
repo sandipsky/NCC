@@ -1,0 +1,15 @@
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\bin\Debug\net6.0\AbstractClass.exe
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\bin\Debug\net6.0\AbstractClass.deps.json
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\bin\Debug\net6.0\AbstractClass.runtimeconfig.json
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\bin\Debug\net6.0\AbstractClass.dll
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\bin\Debug\net6.0\AbstractClass.pdb
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.AssemblyReference.cache
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfoInputs.cache
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfo.cs
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\AbstractClass.dll
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\refint\AbstractClass.dll
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\AbstractClass.pdb
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\AbstractClass.genruntimeconfig.cache
+D:\Documents\6th Semester\zLAB\NCC\AbstractClass\obj\Debug\net6.0\ref\AbstractClass.dll
